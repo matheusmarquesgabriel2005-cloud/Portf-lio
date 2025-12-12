@@ -8,6 +8,7 @@
 **Informações de Licença:** **NÃO É PERMITIDO** qualquer alteração no arquivo, como: Adicionar linhas de códigos, apagar informações, modificar as linguagens (css, javascript, html e demais, se houver) ou tentativas de Red-Flags, como XSS, comandos de permissões de dono (etc/.../), ou quaisquer maneiras de descobrir falhas **SEM** o devido **AVISO PRÉVIO.**
 
 **Autor/Contato:** Matheus Marques Gabriel. 
+
 **Informações de contato:**
 - LinkedIn: www.linkedin.com/in/matheus-marques-gabriel-a29291300;
 - E-mail: Matheus Marques Gabriel;
