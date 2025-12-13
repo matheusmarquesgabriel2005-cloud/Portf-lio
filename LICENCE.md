@@ -2,7 +2,9 @@
 **PRINCIPAIS NORMAS A SEREM SEGUIDAS**
 
 > **NUNCA** altere nada sem permissão.
+
 > **NÃO** adicione diretórios ou pastas antes de comunicar.
+
 > **NUNCA** procure vulnerabilidades sem o aviso prévio.
 
 
