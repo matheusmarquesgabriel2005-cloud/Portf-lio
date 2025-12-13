@@ -1,4 +1,5 @@
 #LICENCE
+
 **PRINCIPAIS NORMAS A SEREM SEGUIDAS**
 
 > **NUNCA** altere nada sem permissão.
