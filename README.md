@@ -13,4 +13,4 @@
 - LinkedIn: www.linkedin.com/in/matheus-marques-gabriel-a29291300;
 - E-mail: Matheus Marques Gabriel;
   
-**Agradecimentos:** Agradeço a todos que seguirem com as diretrizes mensionadas e, postadas na aba "LISCENCE" e queiram ajudar no meu projeto. Sem mais delongas, Matheus Marques Gabriel.
+**Agradecimentos:** Agradeço a todos que seguirem com as diretrizes mensionadas e, postadas na aba "LICENCE" e queiram ajudar no meu projeto. Sem mais delongas, Matheus Marques Gabriel.
