@@ -1,3 +1,39 @@
 * {
-    background-color: black;
+    margin: 1;
+    padding: 1;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    color: rgb(255, 255, 255);
+
+    background: linear-gradient(95deg, rgb(15, 0, 22), rgb(48, 0, 77), rgb(15, 0, 22));
+    background-size: 600% 600%;
+    animation: bgAnim 20s ease infinite;
+    padding: 20px;
+}
+
+@keyframes bgAnim {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+
+}
+
+#contacts {
+    text-align: center;
+}
+
+#contacts p {
+    text-align: justify;
+    margin: 20px;
 }
