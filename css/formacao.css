@@ -8,7 +8,7 @@
 body {
     color: rgb(255, 255, 255);
 
-    background: linear-gradient(95deg, rgb(157, 132, 255), rgb(34, 0, 129), rgba(84, 157, 160, 0.692));
+    background: linear-gradient(95deg, rgb(44, 44, 44), rgb(0, 0, 0), rgb(92, 92, 92));
     background-size: 600% 600%;
     animation: bgAnim 20s ease infinite;
     padding: 20px;
@@ -29,6 +29,7 @@ body {
 
 }
 
+
 footer {
     text-align: center;
     opacity: 0.7;
@@ -36,20 +37,19 @@ footer {
 }
 
 .voltar {
-    border-color: rgb(35, 0, 160);
-    color: rgb(35, 0, 160);
+    border-color: rgb(165, 165, 165);
     background: transparent;
+    color: gray;
     border-style: outset;
     border-radius: 5px;
     cursor: pointer;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
-    margin-bottom: 40px;
 }
 
 .voltar:hover {
     animation: pulo 0.5s ease;
-    color: rgb(109, 93, 255);
-    border-color: rgb(109, 93, 255);
+    color: white;
+    border-color: white;
 }
 
 @keyframes pulo {
@@ -64,24 +64,4 @@ footer {
     100% {
         transform: translateY(0);
     }
-}
-
-main {
-    margin-bottom: 60px;
-}
-
-.text {
-    color: rgb(255, 255, 255);
-}
-
-.text h3 {
-    color: rgb(184, 207, 255);
-}
-.text a{
-    color: rgb(255, 255, 255);
-    text-decoration: underline;
-}
-
-.text p{
-    padding-bottom: 30px;
 }

@@ -44,6 +44,33 @@ footer {
     margin-top: 30px;
 }
 
-voltar {
-    
+.voltar {
+    border-color: rgb(126, 50, 161);
+    background: transparent;
+    color: rgb(126, 50, 161);
+    border-style: outset;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+}
+
+.voltar:hover {
+    animation: pulo 0.5s ease;
+    border-color: rgb(200, 110, 218);
+    color: rgb(200, 110, 218);
+}
+
+@keyframes pulo {
+    0% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-6px);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
 }
